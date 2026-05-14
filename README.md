@@ -19,7 +19,6 @@ Built an end to end forecasting system to predict weekly retail sales at the sto
 
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 16px;">
     <h3>Instacart A/B Testing Analysis</h3>
-    <p><strong>Objective:</strong> Evaluate the causal impact of product changes on user behavior.</p>
     <p>
 Designed and analyzed a randomized A/B test to evaluate whether reminder notifications increase user orders on Instacart. I constructed treatment and control groups, validated experimental balance, and estimated causal effects using regression based inference. The results show that reminder notifications increase orders by 0.198 per user (95% CI: 0.193–0.202), providing clear evidence of a positive impact on user engagement.
     </p>
@@ -29,7 +28,6 @@ Designed and analyzed a randomized A/B test to evaluate whether reminder notific
 
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 16px;">
     <h3>Uber Operations Dashboard</h3>
-    <p><strong>Objective:</strong> Analyze pricing efficiency and ride patterns using interactive visualizations.</p>
     <p>
 Developed an interactive Power BI dashboard to analyze ride share operational performance across cities, time periods, and trip behavior. The dashboard tracks key metrics including completion rates, cancellations, no shows, ride distance distributions, and time of day ride patterns through interactive KPI monitoring and cross-filtering visualizations. The analysis helps identify operational inefficiencies, monitor service reliability, and uncover trends that may impact revenue, customer experience, and driver utilization.
     </p>
