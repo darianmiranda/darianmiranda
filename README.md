@@ -14,7 +14,7 @@ I’ve been interested in how businesses operate and grow since I started my own
 Built an end to end forecasting system to predict weekly retail sales at the store-department level using historical Walmart data, with the goal of improving inventory planning and demand allocation. The project reflects a production oriented workflow, including feature engineering, time aware cross-validation, and the use of a business relevant evaluation metric (WAPE). The final model achieved 8.4% WAPE on unseen data, demonstrating strong predictive performance.
     </p>   
     <p><strong>Tools:</strong> R </p>
-    <a href="https://github.com/darianmiranda/Walmart-Retail-Sales-Forecast/edit/main/README.md">View Project →</a>
+    <a href="https://github.com/darianmiranda/Walmart-Retail-Sales-Forecast/blob/main/README.md">View Project →</a>
   </div>
 
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 16px;">
