@@ -14,7 +14,7 @@ I’ve been interested in how businesses operate and grow since I started my own
 Built an end to end forecasting system to predict weekly retail sales at the store-department level using historical Walmart data, with the goal of improving inventory planning and demand allocation. The project reflects a production oriented workflow, including feature engineering, time aware cross-validation, and the use of a business relevant evaluation metric (WAPE). The final model achieved 8.4% WAPE on unseen data, demonstrating strong predictive performance.
     </p>   
     <p><strong>Tools:</strong> R </p>
-    <a href="https://github.com/yourusername/walmart-forecasting">View Project →</a>
+    <a href="https://github.com/darianmiranda/Walmart-Retail-Sales-Forecast/edit/main/README.md">View Project →</a>
   </div>
 
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 16px;">
@@ -23,7 +23,7 @@ Built an end to end forecasting system to predict weekly retail sales at the sto
 Designed and analyzed a randomized A/B test to evaluate whether reminder notifications increase user orders on Instacart. I constructed treatment and control groups, validated experimental balance, and estimated causal effects using regression based inference. The results show that reminder notifications increase orders by 0.198 per user (95% CI: 0.193–0.202), providing clear evidence of a positive impact on user engagement.
     </p>
     <p><strong>Tools:</strong> R </p>
-    <a href="https://github.com/yourusername/instacart-ab-testing">View Project →</a>
+    <a href="https://github.com/darianmiranda/InstaCart-AB-Test/blob/main/README.md">View Project →</a>
   </div>
 
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 16px;">
@@ -32,7 +32,7 @@ Designed and analyzed a randomized A/B test to evaluate whether reminder notific
 Developed an interactive Power BI dashboard to analyze ride share operational performance across cities, time periods, and trip behavior. The dashboard tracks key metrics including completion rates, cancellations, no shows, ride distance distributions, and time of day ride patterns through interactive KPI monitoring and cross-filtering visualizations. The analysis helps identify operational inefficiencies, monitor service reliability, and uncover trends that may impact revenue, customer experience, and driver utilization.
     </p>
     <p><strong>Tools:</strong> Power BI </p>
-    <a href="https://github.com/yourusername/uber-dashboard">View Project →</a>
+    <a href="https://github.com/darianmiranda/Uber-Operations-Dashboard/blob/main/README.md">View Project →</a>
   </div>
 
 </div>
