@@ -43,4 +43,3 @@ Developed an interactive Power BI dashboard to analyze ride share operational pe
 
 - Email: darianmiranda03@gmail.com
 - LinkedIn: www.linkedin.com/in/darian-miranda-olivas-533a70321
-- GitHub: https://github.com/darianmiranda
