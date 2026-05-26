@@ -1,6 +1,6 @@
 # Darian Miranda Olivas
 
-I’ve been interested in how businesses operate and grow since I started my own small business in high school. That experience shaped how I think: I naturally look for ways to improve processes, understand customers, and make better business decisions. Through my graduate training in economics, I developed a more formal foundation in statistical analysis and decision making. Data became the tool that allowed me to do this at scale. I am drawn to difficult decisions that start with overwhelming, unfiltered data where the first step is determining what matters, what is reliable, and how to turn it into something useful. My interests are especially focused on prediction and business experimentation.
+Economics graduate with experience in predictive analytics, statistical modeling, and business experimentation across academic research, government analytics, and independent data science projects. Skilled in transforming large, messy datasets into actionable insights for operational, financial, and economic decision making. Strong foundation in statistical inference, experimental design, and predictive modeling with a focus on building analytically rigorous and business relevant solutions.
 
 ---
 
